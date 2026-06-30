@@ -1,0 +1,6 @@
+{
+  "name": "MOTO-AFRICANO",
+  "description": "Gestión inteligente para motociclistas. Control de mantenimiento, predicción de desgaste de piezas, control de documentos legales y garaje multi-moto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
